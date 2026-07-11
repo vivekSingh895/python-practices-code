@@ -14,3 +14,7 @@ tuple(list)
 print(type(list))
 
 print("hell changes file")
+
+a = "hello ", "bhai", "change"
+print(type(a))
+print(a)
